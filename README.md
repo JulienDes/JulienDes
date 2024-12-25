@@ -1,7 +1,7 @@
 
 <!-- Biographie and stats -->
 # 💫 About Me:
-👨‍🎓 A computer science student at [Université du Québec à Trois-Rivières](https://www.uqtr.ca/index.shtml) <br/> 🔭 I’m currently working on a mobile app<br>🤝 I’m looking for help with finding an internship<br>🌱 I’m currently learning data science
+👨‍🎓 A computer science student at [Université du Québec à Trois-Rivières](https://www.uqtr.ca/index.shtml) <br/> 🔭 I’m currently working on the Google Data Analytics Professional Certificate<br>🤝 I’m looking for help with finding an internship<br>🌱 I’m currently learning data science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julien-desrosiers-245b3b2b2) 
